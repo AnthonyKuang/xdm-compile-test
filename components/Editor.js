@@ -12,14 +12,6 @@ import { basicSetup } from '@codemirror/basic-setup';
 import { markdown as langMarkdown } from '@codemirror/lang-markdown';
 import { oneDark } from '@codemirror/theme-one-dark';
 import { ErrorBoundary } from 'react-error-boundary';
-import { lowlight } from 'lowlight/lib/core.js';
-import javascript from 'highlight.js/lib/languages/javascript';
-import json from 'highlight.js/lib/languages/json';
-import markdown from 'highlight.js/lib/languages/markdown';
-
-lowlight.registerLanguage('js', javascript);
-lowlight.registerLanguage('json', json);
-lowlight.registerLanguage('md', markdown);
 
 function useMdx(defaults) {
   const [state, setState] = useState({ ...defaults, file: null });
