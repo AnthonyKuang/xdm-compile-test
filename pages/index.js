@@ -11,58 +11,11 @@ export default function Home() {
 
 // That's a lot of iframes! Just to test performance ^^
 
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
-<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" />
+<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" loading="lazy" />
+<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" loading="lazy" />
+<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" loading="lazy" />
+<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" loading="lazy" />
+<iframe src="https://codesandbox.io/embed/nice-cloud-3chkc?fontsize=14&hidenavigation=1&theme=dark" loading="lazy" />
 `}
     </Editor>
   );
